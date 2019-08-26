@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4c5d7d3-d0c6-493f-ad4a-724e5000bc60" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/divideConquer/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TSP</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Enumerat/EnumAndEnum.java" />
+        <option value="$PROJECT_DIR$/src/Enumerat/Enums.java" />
+        <option value="$PROJECT_DIR$/src/Enumerat/AlarmsPoints.java" />
+        <option value="$PROJECT_DIR$/src/Enumerat/EnumSets.java" />
+        <option value="$PROJECT_DIR$/src/Enumerat/SecurityCategory.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Person.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Animals.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Dog.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Man.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Factory.java" />
+        <option value="$PROJECT_DIR$/src/reflection/ReflectAndFactory.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/Tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/nio/MultiThreadIOServer.java" />
+        <option value="$PROJECT_DIR$/src/nio/ThreadPoolIOServer.java" />
+        <option value="$PROJECT_DIR$/src/nio/readme.txt" />
+        <option value="$PROJECT_DIR$/src/nio/NonBlockingIOServer.java" />
+        <option value="$PROJECT_DIR$/src/nio/NonBlockingIOClient.java" />
+        <option value="$PROJECT_DIR$/src/nio/BlockingIOServer.java" />
+        <option value="$PROJECT_DIR$/src/nio/SocketClient.java" />
+        <option value="$PROJECT_DIR$/src/staticsords/Statictest1.java" />
+        <option value="$PROJECT_DIR$/src/staticsords/Statictest2.java" />
+        <option value="$PROJECT_DIR$/src/finalwords/FinalTest1.java" />
+        <option value="$PROJECT_DIR$/src/finalwords/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/finalwords/Test.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/src/staticsords/StaticThis.java" />
+        <option value="$PROJECT_DIR$/src/staticsords/StaticDispatcher.java" />
+        <option value="$PROJECT_DIR$/src/test/testItr.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/divideConquer/Perm.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/ThreadlocalTest.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/sorts/Sorts.java" />
+        <option value="$PROJECT_DIR$/src/SerializeDemo/SerializeDemo.java" />
+        <option value="$PROJECT_DIR$/src/SerializeDemo/Student.java" />
+        <option value="$PROJECT_DIR$/src/nio/TestBufer.java" />
+        <option value="$PROJECT_DIR$/src/nio/TestBuffer.java" />
+        <option value="$PROJECT_DIR$/src/nio/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/nio/TestBlockingClient.java" />
+        <option value="$PROJECT_DIR$/src/nio/TestBlockingServer.java" />
+        <option value="$PROJECT_DIR$/src/MD5/MD5Util.java" />
+        <option value="$PROJECT_DIR$/src/MD5/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/A.java" />
+        <option value="$PROJECT_DIR$/src/test/B.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/CreateThread.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/Object.java" />
+        <option value="$PROJECT_DIR$/src/java/lang/Object.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/ClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/Test.java" />
+        <option value="$PROJECT_DIR$/src/AtomicTest/AtomicIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/Map/MyHashMap.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="715" />
+    <option name="y" value="185" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555145235125" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lintcode" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15078124" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="finalwords" />
+      <recent name="nio" />
+      <recent name="concurrent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SemaphoreTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtomicIntegerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomicTest.AtomicIntegerTest" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AtomicTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.CountDownLatchTest" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.CyclicBarrierTest" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.SemaphoreTest" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchEnum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enumerat.SwitchEnum" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enumerat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.Test" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SwitchEnum" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CountDownLatchTest" />
+      <item itemvalue="Application.AtomicIntegerTest" />
+      <item itemvalue="Application.CyclicBarrierTest" />
+      <item itemvalue="Application.SemaphoreTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SemaphoreTest" />
+        <item itemvalue="Application.CyclicBarrierTest" />
+        <item itemvalue="Application.CountDownLatchTest" />
+        <item itemvalue="Application.AtomicIntegerTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c5d7d3-d0c6-493f-ad4a-724e5000bc60" name="Default" comment="" />
+      <created>1544705508429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544705508429</updated>
+      <workItem from="1544705512739" duration="65000" />
+      <workItem from="1544705589009" duration="5990000" />
+      <workItem from="1544753679788" duration="13000" />
+      <workItem from="1544884280060" duration="1271000" />
+      <workItem from="1545055800362" duration="1489000" />
+      <workItem from="1545057325076" duration="2136000" />
+      <workItem from="1545059927949" duration="7546000" />
+      <workItem from="1545146347084" duration="1778000" />
+      <workItem from="1545220801914" duration="6711000" />
+      <workItem from="1545317853861" duration="2070000" />
+      <workItem from="1545572687004" duration="5847000" />
+      <workItem from="1545649973088" duration="42000" />
+      <workItem from="1545660257501" duration="9098000" />
+      <workItem from="1545742055961" duration="2402000" />
+      <workItem from="1545918695732" duration="2446000" />
+      <workItem from="1545923627627" duration="19000" />
+      <workItem from="1545925567073" duration="25000" />
+      <workItem from="1546094734992" duration="116000" />
+      <workItem from="1546330023764" duration="242000" />
+      <workItem from="1546330562161" duration="1063000" />
+      <workItem from="1546346314088" duration="8153000" />
+      <workItem from="1546438503157" duration="8381000" />
+      <workItem from="1546670110451" duration="505000" />
+      <workItem from="1546670846952" duration="157000" />
+      <workItem from="1546672969624" duration="77000" />
+      <workItem from="1546689197642" duration="7000" />
+      <workItem from="1546778594485" duration="7074000" />
+      <workItem from="1546846577276" duration="200000" />
+      <workItem from="1546848027134" duration="571000" />
+      <workItem from="1546848627402" duration="1809000" />
+      <workItem from="1546851219445" duration="10906000" />
+      <workItem from="1546961274970" duration="2062000" />
+      <workItem from="1547132363181" duration="3066000" />
+      <workItem from="1547212388561" duration="12433000" />
+      <workItem from="1547277962062" duration="15531000" />
+      <workItem from="1547365537244" duration="66000" />
+      <workItem from="1547366095606" duration="22313000" />
+      <workItem from="1547558475471" duration="8819000" />
+      <workItem from="1547813530248" duration="561000" />
+      <workItem from="1547819210293" duration="19000" />
+      <workItem from="1547819469440" duration="6000" />
+      <workItem from="1548119341949" duration="18243000" />
+      <workItem from="1551057542108" duration="2390000" />
+      <workItem from="1551168179885" duration="709000" />
+      <workItem from="1551180392151" duration="856000" />
+      <workItem from="1551181261804" duration="15000" />
+      <workItem from="1551181481096" duration="4480000" />
+      <workItem from="1551279491483" duration="1697000" />
+      <workItem from="1551281325869" duration="158000" />
+      <workItem from="1551281566133" duration="2904000" />
+      <workItem from="1551409179526" duration="975000" />
+      <workItem from="1551607539551" duration="3617000" />
+      <workItem from="1551973003485" duration="3223000" />
+      <workItem from="1552094866349" duration="188000" />
+      <workItem from="1552101174258" duration="48000" />
+      <workItem from="1552101339128" duration="22000" />
+      <workItem from="1552101371686" duration="4432000" />
+      <workItem from="1552283523350" duration="4570000" />
+      <workItem from="1552295179903" duration="1387000" />
+      <workItem from="1552304457458" duration="941000" />
+      <workItem from="1552305420503" duration="10000" />
+      <workItem from="1552305720256" duration="3000" />
+      <workItem from="1552615435665" duration="102000" />
+      <workItem from="1552615674692" duration="7596000" />
+      <workItem from="1552642477243" duration="580000" />
+      <workItem from="1552653220812" duration="8417000" />
+      <workItem from="1552715965030" duration="774000" />
+      <workItem from="1552727069671" duration="2446000" />
+      <workItem from="1552829556606" duration="3717000" />
+      <workItem from="1552873383545" duration="1440000" />
+      <workItem from="1553319030914" duration="621000" />
+      <workItem from="1553327567947" duration="2250000" />
+      <workItem from="1553330162054" duration="1536000" />
+      <workItem from="1553332663763" duration="1577000" />
+      <workItem from="1553347777517" duration="462000" />
+      <workItem from="1553499255055" duration="4543000" />
+      <workItem from="1553513088135" duration="1811000" />
+      <workItem from="1553516442735" duration="252000" />
+      <workItem from="1553517213822" duration="478000" />
+      <workItem from="1553670369607" duration="3285000" />
+      <workItem from="1553676910347" duration="3646000" />
+      <workItem from="1553681835645" duration="2347000" />
+      <workItem from="1553684932146" duration="2466000" />
+      <workItem from="1553690018233" duration="2775000" />
+      <workItem from="1553843246794" duration="644000" />
+      <workItem from="1553850337563" duration="866000" />
+      <workItem from="1553908374989" duration="2451000" />
+      <workItem from="1553914411155" duration="1691000" />
+      <workItem from="1553919046788" duration="2324000" />
+      <workItem from="1553922422126" duration="84000" />
+      <workItem from="1553923794173" duration="4664000" />
+      <workItem from="1554007523966" duration="1973000" />
+      <workItem from="1554100561259" duration="4969000" />
+      <workItem from="1554272765993" duration="4251000" />
+      <workItem from="1554279650599" duration="20000" />
+      <workItem from="1554691708709" duration="6968000" />
+      <workItem from="1554769114452" duration="2243000" />
+      <workItem from="1554772106079" duration="1476000" />
+      <workItem from="1554773672082" duration="8910000" />
+      <workItem from="1554799681243" duration="640000" />
+      <workItem from="1554806495760" duration="92000" />
+      <workItem from="1554806891311" duration="16000" />
+      <workItem from="1554807197981" duration="3309000" />
+      <workItem from="1554879764677" duration="208000" />
+      <workItem from="1554880102043" duration="6585000" />
+      <workItem from="1554886948842" duration="3291000" />
+      <workItem from="1554942790420" duration="3631000" />
+      <workItem from="1555074052503" duration="678000" />
+      <workItem from="1555137995741" duration="2019000" />
+      <workItem from="1555330103092" duration="61000" />
+      <workItem from="1555332949941" duration="23000" />
+      <workItem from="1555333062265" duration="28000" />
+      <workItem from="1555472289270" duration="603000" />
+      <workItem from="1555516894314" duration="153000" />
+      <workItem from="1555599545978" duration="61000" />
+      <workItem from="1555937812449" duration="95000" />
+      <workItem from="1555938004097" duration="390000" />
+      <workItem from="1555940366642" duration="889000" />
+      <workItem from="1555979838633" duration="10000" />
+      <workItem from="1555984793102" duration="7000" />
+      <workItem from="1556182518492" duration="137000" />
+      <workItem from="1556182778856" duration="15000" />
+      <workItem from="1556182815021" duration="12000" />
+      <workItem from="1556182889290" duration="23000" />
+      <workItem from="1557047076349" duration="523000" />
+      <workItem from="1557110930956" duration="164000" />
+      <workItem from="1557129711854" duration="77000" />
+      <workItem from="1557191490166" duration="3058000" />
+      <workItem from="1557311995917" duration="1292000" />
+      <workItem from="1557537297378" duration="1658000" />
+      <workItem from="1557619647252" duration="31000" />
+      <workItem from="1558400802213" duration="80000" />
+      <workItem from="1558838542916" duration="232000" />
+      <workItem from="1559116747568" duration="57000" />
+      <workItem from="1559544665220" duration="4000" />
+      <workItem from="1559607305872" duration="514000" />
+      <workItem from="1559630614630" duration="37000" />
+      <workItem from="1559638873114" duration="98000" />
+      <workItem from="1559639269804" duration="6000" />
+      <workItem from="1559639372869" duration="11000" />
+      <workItem from="1559639807221" duration="63000" />
+      <workItem from="1560346793014" duration="1134000" />
+      <workItem from="1560385867337" duration="8000" />
+      <workItem from="1560392538557" duration="1800000" />
+      <workItem from="1560410710596" duration="852000" />
+      <workItem from="1560521981331" duration="631000" />
+      <workItem from="1560648533636" duration="1227000" />
+      <workItem from="1560846165225" duration="270000" />
+      <workItem from="1560849200787" duration="2916000" />
+      <workItem from="1560865227223" duration="1598000" />
+      <workItem from="1560910075776" duration="624000" />
+      <workItem from="1560933996533" duration="3174000" />
+      <workItem from="1561127423827" duration="2383000" />
+      <workItem from="1564015668159" duration="1181000" />
+      <workItem from="1564369649103" duration="1714000" />
+      <workItem from="1564800272117" duration="759000" />
+      <workItem from="1564816550891" duration="2725000" />
+      <workItem from="1565849612147" duration="12000" />
+      <workItem from="1565849634371" duration="2845000" />
+      <workItem from="1565859102854" duration="408000" />
+      <workItem from="1566286647946" duration="1914000" />
+      <workItem from="1566436636446" duration="1234000" />
+      <workItem from="1566829741065" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="361245000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25860906" />
+      <window_info id="Structure" order="1" weight="0.23315364" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3270073" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4919571" weight="0.69635034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5080429" side_tool="true" weight="0.28759125" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.72262776" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="aiXcoder" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/divideConquer/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/divideConquer/Perm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SerializeDemo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/TestBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/MultiThreadIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/TestBlockingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/ThreadPoolIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/NonBlockingIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/NonBlockingIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/CreateThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/concurrent/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="400" column="23" selection-start-line="400" selection-start-column="23" selection-end-line="400" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MD5/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/MultiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/TestBlockingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/ServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/SocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MD5/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtomicTest/AtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadlocalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadInterrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadShutdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/SemaphoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1439#1440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/List/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/Map/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#1463#1464#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1594#1595#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/Heap/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+          <folding>
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/Heap/MinHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-655">
+          <caret line="176" column="6" selection-start-line="176" selection-start-column="6" selection-end-line="176" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enumerat/EnumSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalwords/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/finalwords/FinalTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmtest/AllocationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmtest/AllocationTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvmtest/TestString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/testItr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/BlockingIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/divideConquer/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

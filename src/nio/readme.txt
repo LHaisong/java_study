@@ -1,0 +1,11 @@
+在这个包下使用了几种方式实现了socket的服务器：
+1.阻塞IO
+  1.1.BlockingIOServer
+    传统的实现方式，服务器启动等待连接
+  1.2.MultiThreadIOServer
+    使用多线程的方式实现
+  1.3.ThreadPoolIOServer
+    使用线程池的方式实现
+2使用NIO实现非阻塞IO
+  2.1.NonBlockingIOServer
+    使用nio的方式实现
