@@ -4,85 +4,6 @@ package datastructure.Heap;
  * 利用最小堆求解topK问题
  * 求得一组元素中最大的k个元素
  */
-//public class MinHeap {
-//	int count;
-//
-//	int heapSize;
-//
-//	int []heap;
-//
-//	/**
-//	 *将无序数组转换为最小堆
-//	 * @param arr
-//	 */
-//	public MinHeap(int[]arr){
-//		heapSize=arr.length;
-//		heap=new int[heapSize];
-//		for(int i=0;i<arr.length;i++){
-//			heap[i]=arr[i];//复制数组
-//		}
-//		int n=arr.length;
-//			count=n;
-//		int curPosition=(count-2)/2;//指向树中倒数第二层最左边的节点（即初始调整节点）
-//		while(curPosition>=0){
-//			siftDown(curPosition,count-1);//自下而上逐步调整
-//			curPosition--;//换分支节点
-//		}
-//	}
-//
-//	/**
-//	 *下滑算法逐步完成最小堆的构建
-//	 * @param start
-//	 * @param m
-//	 */
-//	public void siftDown(int start,int m){
-//		int i=start,j=2*i+1;
-//		int temp=heap[i];
-//		while(j<=m){
-//			if(j<m&&heap[j]>heap[j+1]){
-//				//swap(heap[j],heap[j+1]);//如果节点i的左子大于右子，则交换
-//				j++;
-//			}
-//			if(temp<=heap[j]){//如果节点i小于其左儿子，结束
-//				break;
-//			}
-//			else {
-//				heap[i]=heap[j];//节点i和其左儿子交换
-//				i=j;
-//				j=2*j+1;
-//			}
-//		}
-//		heap[i]=temp;
-//	}
-//	/**
-//	 *交换函数
-//	 * @param i
-//	 * @param j
-//	 */
-//	public void swap(int i,int j){
-//		int temp=j;
-//		j=i;
-//		i=temp;
-//	}
-//	/**
-//	 * 获取最小值的函数
-//	 * @return 根节点
-//	 */
-//	public int getTopKElements(){
-//		//System.out.print("最大的"+k+"个元素是：");
-//		for(int i=0;i<heap.length;i++){
-//			System.out.print(heap[i]+" ");
-//		}
-//		//System.out.print(heap[0]);
-//		return 0;
-//	}
-//	public static void main(String[]args){
-//		int[]arr={56,275,12,18,45,478,41,1236,456,12,546,45};
-//		MinHeap mh=new MinHeap(arr);
-//		int k=4;
-//		mh.getTopKElements();
-//	}
-//}
 class MinHeap
 {
 	// 堆的存储结构 - 数组
@@ -92,11 +13,11 @@ class MinHeap
 	public MinHeap(int[] data)
 	{
 		this.data = data;
-		buildHeap();
+		buildMinHeap();
 	}
 
 	// 将数组转换成最小堆
-	private void buildHeap()
+	private void buildMinHeap()
 	{
 		// 完全二叉树只有数组下标小于或等于 (data.length) / 2 - 1 的元素有孩子结点，遍历这些结点。
 		// *比如上面的图中，数组有10个元素， (data.length) / 2 - 1的值为4，a[4]有孩子结点，但a[5]没有*
@@ -113,7 +34,7 @@ class MinHeap
 		int l = left(i);
 		int r = right(i);
 
-		// 这是一个临时变量，表示 跟结点、左结点、右结点中最小的值的结点的下标
+		// 这是一个临时变量，表示 根结点、左结点、右结点中最小的值的结点的下标
 		int smallest = i;
 
 		// 存在左结点，且左结点的值小于根结点的值
